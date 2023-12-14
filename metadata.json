@@ -1,7 +1,7 @@
 {
     "id": "jademc",
     "name": "JadeMC",
-    "store": "http://store.jademc.net/",
+    "store": "https://jademc.tebex.io/",
     "description": "Where the best players play",
     "addresses": [
         "jademc.net"
@@ -24,6 +24,6 @@
     ],
     "socials": {
         "twitter": "jademcnet",
-        "discord": "https://discord.com/invite/DrGaKGVaWp"
+        "discord": "https://discord.com/invite/nckK4bvMS6"
     }
 }
